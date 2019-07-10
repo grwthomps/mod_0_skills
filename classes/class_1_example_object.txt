@@ -1,0 +1,17 @@
+Object: Music
+
+Attributes:
+
+department_name: "John Smith High School Music Department"
+location: "Building A"
+number_of_faculty: 3
+number_of_students: 10
+student_gpa: [3.4, 4.0, 2.1, 2.5, 3.6, 3.2, 2.7, 3.9, 3.7, 2.8]
+department_head: "Bob Johnson"
+
+Methods:
+
+change_department_head: "Jim Thornton"
+calculate_average_gpa: 3.19
+new_faculty_member: 4
+student_dropout: 9
