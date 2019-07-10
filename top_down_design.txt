@@ -1,0 +1,44 @@
+1. Become Turing Student
+  1.1 Do "Try Coding"
+    1.1.1 Confirm reservation
+      1.1.1.1 Pay reservation fee
+    1.1.2 Set reminder for reservation
+    1.1.3 Attend "Try Coding"
+  1.2 Complete application
+    1.2.1 Review application process
+    1.2.2 Practice logic questions
+      1.2.2.1 Look up sample logic questions online
+      1.2.2.2 Practice sample logic questions daily for 3 days
+    1.2.3 Submit application
+  1.3 Do interview
+    1.3.1 Schedule interview with Turing
+    1.3.2 Set reminder for interview
+    1.3.3 Review sample logic questions prior to interview
+    1.3.4 Test camera and microphone prior to interview
+    1.3.5 Attend interview
+  1.4 Get accepted
+    1.4.1 Receive acceptance email
+  1.5 Complete Mod 0
+    1.5.1 Sign up for correct Mod 0 dates
+    1.5.2 Pay deposit for laptop
+    1.5.3 Receive laptop
+    1.5.4 Complete Session 1
+      1.5.4.1 Attend session
+      1.5.4.2 Complete Session 1 homework
+    1.5.5 Complete Session 2
+      1.5.5.1 Attend session
+      1.5.5.2 Complete Session 2 homework
+    1.5.5 Complete Session 3
+      1.5.5.1 Attend session
+      1.5.5.2 Complete Session 3 homework
+    1.5.5 Complete Session 4
+      1.5.5.1 Attend session
+      1.5.5.2 Complete Session 4 homework
+    1.5.5 Complete Session 5
+      1.5.5.1 Attend session
+      1.5.5.2 Complete technical assessment
+    1.5.5 Complete Session 6
+  1.6 Pay tuition
+    1.6.1 Login at turing.io
+    1.6.2 Add bank account info
+    1.6.3 Make final payment
