@@ -1,0 +1,15 @@
+Object: Lot 3
+
+Attributes:
+
+total_number_of_spots: 50
+number_of_empty_spots: 10
+lot_managers: ["John", "Tom", "Mary", "Simone"]
+lot_color: "blue"
+
+Methods:
+
+calculate_spots_filled: 40
+change_lot_color: "red"
+add_lot_manager: ["John", "Tom", "Mary", "Simone", "Gordon"]
+lot_expansion: 60
