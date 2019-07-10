@@ -1,0 +1,17 @@
+Class: Department
+
+Attributes:
+
+department_name (string)
+location (string)
+number_of_faculty (integer)
+number_of_students (integer)
+student_gpa (array)
+department_head (string)
+
+Methods:
+
+change_department_head (replaces department_head string with name of new department head)
+calculate_average_gpa (calculates average student gpa: sum of student_gpa / number_of_students)
+new_faculty_member (increases number_of_faculty by 1)
+student_dropout (decreases number_of_students by 1)
