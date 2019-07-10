@@ -1,0 +1,15 @@
+Class: Parking Lot
+
+Attributes:
+
+total_number_of_spots (integer)
+number_of_empty_spots (integer)
+lot_managers (array)
+lot_color (string)
+
+Methods:
+
+calculate_spots_filled (calculates number of spots filled by subtracting number_of_empty_spots from total_number_of_spots)
+change_lot_color (changes lot_color string)
+add_lot_manager (adds string to lot_managers array)
+lot_expansion (increases total_number_of_spots by 10)
